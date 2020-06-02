@@ -3,6 +3,7 @@
 > NuxtJs + Firebase (Auth / Firestore / Storage) + Google App Engine
 
 ## Demo: https://bloggo.ew.r.appspot.com/
+demo account: mail: demo@admin.com / pass: 123456
 
 ## Build Setup
 
